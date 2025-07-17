@@ -1,0 +1,13 @@
+
+@import "tailwindcss";
+
+@theme inline {
+  --color-eco-green: #10B981;
+  --color-eco-dark: #065F46;
+  --color-eco-light: #D1FAE5;
+}
+
+body {
+  background: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
