@@ -174,23 +174,6 @@ function executeProposal(uint256 proposalId) external
 - **SDG 13**: Climate action through verified environmental activities
 - **SDG 8**: Economic inclusion and sustainable livelihoods
 
-## ⚖️ Legal Considerations
-
-### Regulatory Compliance
-- Tokenized carbon credits may be classified as financial instruments
-- Compliance with MiFID II (EU) and securities laws (US)
-- Anti-money laundering and KYC requirements
-
-### Environmental Standards
-- Adherence to additionality, permanence, and double-counting prevention
-- Alignment with core carbon accounting principles
-- Integration with existing certification frameworks
-
-### Data Protection
-- GDPR compliance for personal data processing
-- Secure handling of geospatial and user data
-- Clear consent mechanisms
-
 ## 🏆 Team
 
 - **Tobias Stampfli** - University of Zürich (Market Analysis, Legal)
