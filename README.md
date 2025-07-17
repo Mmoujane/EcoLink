@@ -114,7 +114,7 @@ Our platform leverages blockchain technology to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/ecolink.git
+git clone https://github.com/Mmoujane/EcoLink.git
 cd ecolink
 
 # Install dependencies
