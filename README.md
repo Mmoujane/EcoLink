@@ -28,11 +28,6 @@ Our platform leverages blockchain technology to:
 - Reward system for verified environmental actions
 - Staking mechanism for validators
 
-### 📱 Mobile-First Design
-- Accessible interface for low-resource environments
-- Step-by-step guidance for action submission
-- Real-time reward tracking
-
 ### 🌱 Environmental Impact
 - Reforestation projects
 - Clean energy adoption
